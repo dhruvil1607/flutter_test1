@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "948200043649",
+    "project_id": "dataretrive-7d436",
+    "storage_bucket": "dataretrive-7d436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948200043649:android:c2ea28302205826b6bc980",
+        "android_client_info": {
+          "package_name": "com.example.data_retrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948200043649-q264tiabagle3hmiq84hdgl68ollj2gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.data_retrive",
+            "certificate_hash": "48e5d122964d2f58b944e6ad9bef43eb0fb373c2"
+          }
+        },
+        {
+          "client_id": "948200043649-rlkanhi8sqdni56s320af54a4ib5871d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHoNf_Gug72P9TegzwqjcYfafAgem85FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948200043649-rlkanhi8sqdni56s320af54a4ib5871d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
